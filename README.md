@@ -1,3 +1,9 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/EOSIO/eos-vm)
+
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/EOSIO/eos-vm)
+
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/EOSIO/eos-vm)
+
 # EOS VM - A Low-Latency, High Performance and Extensible WebAssembly Engine
 
 - Extremely Fast Execution 
